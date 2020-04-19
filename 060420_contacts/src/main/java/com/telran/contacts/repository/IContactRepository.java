@@ -17,5 +17,4 @@ public interface IContactRepository {
     boolean remove(Contact contact);
 
     List<Contact> getAll();
-
 }
